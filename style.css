@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    width: 960px
+    background-color: white;
+    margin: auto auto auto 200px;
+    background-image: url("../images/gravel.png");
+   
+    }
+}
+h1 h2 h3 h4 h5 h6 {
+    font-display: 'Roboto', sans-serif;
+}
+
+p {
+    font-display: 'Montserrat', sans-serif;
+}
