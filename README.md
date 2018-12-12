@@ -1,7 +1,8 @@
-# iarcones.github.io
+# Porfolio 
+I am dedicating time to update my coding knowledge.
+The Boot Camp Full Stack coding program has been an incredible experience for me thus far: 
 
-Link to the Bootcamp projects
+**#HTML**, **#Bootstrap**, **#Javascript**, **#jQuery**, **#Firebase**, **#nodejs** ....
 
-## Getting Started
-
-This site contains the links to the weekly projects (homework)
+Here I will be updating some samples of my first few projects.
+ https://iarcones.github.io/Porfolio/
